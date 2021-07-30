@@ -1,0 +1,23 @@
+{
+  "name": "mock-video-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreejan-22/mock-video-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreejan-22/mock-video-api/issues"
+  },
+  "homepage": "https://github.com/Sreejan-22/mock-video-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
